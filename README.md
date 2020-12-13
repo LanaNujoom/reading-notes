@@ -1,6 +1,6 @@
 ## Welcome to My Site
-I am Lana Nujoom. I am an Architect graduated from Hashemite University.
-## reading notes
+I am Lana Nujoom. I am an Architect graduated from Hashemite University. I will be sharing my reading notes and assingments here.
+## reading notes - day 2
 # Growth Mindest 
 It is a state of being which makes people think positively, as they say look at the filled side of the cup.
 *Growth Mindest* is about seeing the advantages of difficalities and converting challenges to oppurtunities. 
@@ -11,3 +11,5 @@ People with a growth mindset believe that skills, knowledge and creativity can a
 - Always make effort to learn but do not forget to have fun too.
 
 > “Instead of worrying about what you cannot control, shift your energy to what you can create.” – Roy T. Bennett
+
+My GitHub Portfolio Page: https://github.com/LanaNujoom
