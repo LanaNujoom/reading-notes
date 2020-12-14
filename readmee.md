@@ -3,7 +3,7 @@ I am Lana Nujoom. I am an Architect graduated from Hashemite University. I will 
 
 # Table of Contents
 
-1. [Read01](https://lananujoom.github.io/reading-notes/reading-notes03)
+1. [Read01](https://lananujoom.github.io/reading-notes/)
 
 2. [Read03](https://lananujoom.github.io/reading-notes/reading-notes03)
 
