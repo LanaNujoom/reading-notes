@@ -1,6 +1,6 @@
 # What we have learned :
 
-## Git hub commands:
+## Git commands:
 
 - ls = list
 
