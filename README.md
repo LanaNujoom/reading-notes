@@ -10,7 +10,7 @@ I am Lana Nujoom. I am an Architect graduated from Hashemite University. I will 
 2. [Markdown](https://lananujoom.github.io/reading-notes/read01)
 
 
-3. [Github](https://lananujoom.github.io/reading-notes/reading-notes03)
+3. [Git](https://lananujoom.github.io/reading-notes/reading-notes03)
 
 
 
