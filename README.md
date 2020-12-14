@@ -3,7 +3,7 @@
 ## Welcome to My Site
 I am Lana Nujoom. I am an Architect graduated from Hashemite University. I will be sharing my reading notes and assingments here.
 
-![GitHub Logo](https://images.unsplash.com/photo-1507358422555-4b80419c147e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9)
+![GitHub Logo](https://hdqwalls.com/wallpapers/morning-city-rise-birds-flying-g4.jpg)
 
 
 # Table of Contents
