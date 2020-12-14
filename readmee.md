@@ -5,7 +5,7 @@ I am Lana Nujoom. I am an Architect graduated from Hashemite University. I will 
 
 1. [Read01](https://lananujoom.github.io/reading-notes/)
 
-2. [Read03](https://lananujoom.github.io/reading-notes/read01)
+2. [Read02](https://lananujoom.github.io/reading-notes/read01)
 
 
 3. [Read03](https://lananujoom.github.io/reading-notes/reading-notes03)
