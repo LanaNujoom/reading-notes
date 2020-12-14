@@ -3,7 +3,7 @@
 ## Welcome to My Site
 I am Lana Nujoom. I am an Architect graduated from Hashemite University. I will be sharing my reading notes and assingments here.
 
-![GitHub Logo](https://dashconnect.org/wp-content/uploads/2017/03/City_horizon.jpg)
+![GitHub Logo](https://hdqwalls.com/wallpapers/morning-city-rise-birds-flying-g4.jpg)
 Format: ![Alt Text](url)
 
 # Table of Contents
