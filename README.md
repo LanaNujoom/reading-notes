@@ -12,7 +12,6 @@ People with a growth mindset believe that skills, knowledge and creativity can a
 
 > “Instead of worrying about what you cannot control, shift your energy to what you can create.” – Roy T. Bennett
 
-#### My GitHub Portfolio Page: https://github.com/LanaNujoom
 
 
 
