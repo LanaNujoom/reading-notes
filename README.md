@@ -5,12 +5,12 @@ I am Lana Nujoom. I am an Architect graduated from Hashemite University. I will 
 
 # Table of Contents
 
-1. [Read01](https://lananujoom.github.io/reading-notes/)
+1. [Growth Mindest](https://lananujoom.github.io/reading-notes/readmee/)
 
-2. [Read02](https://lananujoom.github.io/reading-notes/read01)
+2. [Markdown](https://lananujoom.github.io/reading-notes/read01)
 
 
-3. [Read03](https://lananujoom.github.io/reading-notes/reading-notes03)
+3. [Github](https://lananujoom.github.io/reading-notes/reading-notes03)
 
 
 
