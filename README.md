@@ -4,7 +4,7 @@
 I am Lana Nujoom. I am an Architect graduated from Hashemite University. I will be sharing my reading notes and assingments here.
 
 ![GitHub Logo](https://hdqwalls.com/wallpapers/morning-city-rise-birds-flying-g4.jpg)
-Format: ![Alt Text](url)
+
 
 # Table of Contents
 
