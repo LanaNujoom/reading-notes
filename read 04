@@ -1,0 +1,6 @@
+The text between the opening <a> tag and closing </a> tag is known as link text
+
+quokka" title="The quokka is an Australian    marsupial that is similar in size to the  
+domestic cat." />chapter-05/adding-images.htmlHtMl<img>To add an image into the page you need to use an <img>element. 
+This is an empty element (which means there is no closing tag).
+
