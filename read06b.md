@@ -25,7 +25,7 @@ Now we use computers in talking to each others, playing and contoling robots.
 
 1  -    0
 
-TRUE - FALSE
+TRUE  -  FALSE
 
 YES - NO
 
