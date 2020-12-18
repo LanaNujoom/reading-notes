@@ -17,4 +17,4 @@ Now we use computers in talking to each others, playing and contoling robots.
 
 # How Computers Work ?
 
-- Computers work on  *** Ones & Zeroes ***
+- Computers work on  ***Ones & Zeroes***
