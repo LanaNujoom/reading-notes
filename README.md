@@ -8,7 +8,7 @@ I am Lana Nujoom. I am an Architect graduated from Hashemite University. I will 
 
 # Table of Contents
 
-1. [Growth Mindest](https://lananujoom.github.io/reading-notes/readmee/)
+1. [Growth Mindest](https://lananujoom.github.io/reading-notes/readmee)
 
 2. [Markdown](https://lananujoom.github.io/reading-notes/read01)
 
