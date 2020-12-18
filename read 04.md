@@ -4,4 +4,4 @@
 
 - To describe the ***structure*** of a web page, we add code to the words we want to appear on the page.
  
-  h1  ---- ### Main Heading ### 
+  tag h1 is used to describe the heading
