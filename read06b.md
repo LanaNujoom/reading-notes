@@ -30,3 +30,11 @@ TRUE - FALSE
 YES - NO
 
 ON - OFF
+
+
+- 1001 in Binary systems = 9 in Decimal Systems
+
+
+* Binary Systems has only 1 & 0 
+
+* Decimal Systems has 1,2,3,4,5,6,7,8,9
