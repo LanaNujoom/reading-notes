@@ -1,0 +1,5 @@
+## Dynamic Web Pages with Javascripts 
+
+The HTML <script> element is used in HTML pages
+to tell the browser to ***load the JavaScript file*** (rather like
+the <link> element can be used to load a CSS file)
