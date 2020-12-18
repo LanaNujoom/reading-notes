@@ -23,4 +23,10 @@ Now we use computers in talking to each others, playing and contoling robots.
 
 - Bit        
 
-1            0
+1  -    0
+
+TRUE - FALSE
+
+YES - NO
+
+ON - OFF
