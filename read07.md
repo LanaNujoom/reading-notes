@@ -9,7 +9,7 @@ give it a ***name*** then write the statement needed
 Execute all the statements between its ** curly braces ** with one line of code.
 
 
-- We start Our Javascripts by adding <  > and inside scripts in the bottom of the code inside html file 
+- We start Our Javascripts by adding it in the bottom of the code inside html file 
   
   - Prefer to create a new file which is ***.js*** to add javascripts inside it and then ***link it with html page***
   
